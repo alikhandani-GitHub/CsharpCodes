@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol example\tabcontorol example\bin\Debug\tabcontorol example.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol example\tabcontorol example\bin\Debug\tabcontorol example.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol example\tabcontorol example\bin\Debug\tabcontorol example.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol example\tabcontorol example\obj\Debug\tabcontorol example.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol example\tabcontorol example\obj\Debug\tabcontorol_example.Form1.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol example\tabcontorol example\obj\Debug\tabcontorol_example.Properties.Resources.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol example\tabcontorol example\obj\Debug\tabcontorol example.csproj.GenerateResource.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol example\tabcontorol example\obj\Debug\tabcontorol example.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol example\tabcontorol example\obj\Debug\tabcontorol example.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol example\tabcontorol example\obj\Debug\tabcontorol example.pdb

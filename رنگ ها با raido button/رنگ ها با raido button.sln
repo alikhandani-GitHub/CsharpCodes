@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "رنگ ها با raido button", "رنگ ها با raido button\رنگ ها با raido button.csproj", "{E48D61EC-7EE7-4281-A77B-129D4D4303FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E48D61EC-7EE7-4281-A77B-129D4D4303FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48D61EC-7EE7-4281-A77B-129D4D4303FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E48D61EC-7EE7-4281-A77B-129D4D4303FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E48D61EC-7EE7-4281-A77B-129D4D4303FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F13FD61-7825-4C3B-973D-B1DE003B2FBD}
+	EndGlobalSection
+EndGlobal

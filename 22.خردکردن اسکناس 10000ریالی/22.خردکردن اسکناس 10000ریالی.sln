@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.خردکردن اسکناس 10000ریالی", "22.خردکردن اسکناس 10000ریالی\22.خردکردن اسکناس 10000ریالی.csproj", "{3B7D19CF-A4CA-4080-81F9-4D1CBBF99EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B7D19CF-A4CA-4080-81F9-4D1CBBF99EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7D19CF-A4CA-4080-81F9-4D1CBBF99EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7D19CF-A4CA-4080-81F9-4D1CBBF99EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7D19CF-A4CA-4080-81F9-4D1CBBF99EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {264797CC-942D-477F-ABB2-5CB18C0DEDEA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\اشنایی با رویداد ها\اشنایی با رویداد ها\bin\Debug\اشنایی با رویداد ها.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\اشنایی با رویداد ها\اشنایی با رویداد ها\bin\Debug\اشنایی با رویداد ها.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\اشنایی با رویداد ها\اشنایی با رویداد ها\bin\Debug\اشنایی با رویداد ها.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\اشنایی با رویداد ها\اشنایی با رویداد ها\obj\Debug\اشنایی با رویداد ها.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\اشنایی با رویداد ها\اشنایی با رویداد ها\obj\Debug\اشنایی_با_رویداد_ها.Form1.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\اشنایی با رویداد ها\اشنایی با رویداد ها\obj\Debug\اشنایی_با_رویداد_ها.Properties.Resources.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\اشنایی با رویداد ها\اشنایی با رویداد ها\obj\Debug\اشنایی با رویداد ها.csproj.GenerateResource.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\اشنایی با رویداد ها\اشنایی با رویداد ها\obj\Debug\اشنایی با رویداد ها.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\اشنایی با رویداد ها\اشنایی با رویداد ها\obj\Debug\اشنایی با رویداد ها.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\اشنایی با رویداد ها\اشنایی با رویداد ها\obj\Debug\اشنایی با رویداد ها.pdb

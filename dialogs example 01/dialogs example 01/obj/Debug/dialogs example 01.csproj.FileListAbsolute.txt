@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\dialogs example 01\dialogs example 01\bin\Debug\dialogs example 01.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\dialogs example 01\dialogs example 01\bin\Debug\dialogs example 01.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\dialogs example 01\dialogs example 01\bin\Debug\dialogs example 01.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\dialogs example 01\dialogs example 01\obj\Debug\dialogs example 01.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\dialogs example 01\dialogs example 01\obj\Debug\dialogs_example_01.Form1.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\dialogs example 01\dialogs example 01\obj\Debug\dialogs_example_01.Properties.Resources.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\dialogs example 01\dialogs example 01\obj\Debug\dialogs example 01.csproj.GenerateResource.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\dialogs example 01\dialogs example 01\obj\Debug\dialogs example 01.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\dialogs example 01\dialogs example 01\obj\Debug\dialogs example 01.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\dialogs example 01\dialogs example 01\obj\Debug\dialogs example 01.pdb

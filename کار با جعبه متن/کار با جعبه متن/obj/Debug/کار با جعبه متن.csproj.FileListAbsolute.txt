@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کار با جعبه متن\کار با جعبه متن\bin\Debug\کار با جعبه متن.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کار با جعبه متن\کار با جعبه متن\bin\Debug\کار با جعبه متن.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کار با جعبه متن\کار با جعبه متن\bin\Debug\کار با جعبه متن.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کار با جعبه متن\کار با جعبه متن\obj\Debug\کار_با_جعبه_متن.Form1.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کار با جعبه متن\کار با جعبه متن\obj\Debug\کار_با_جعبه_متن.Properties.Resources.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کار با جعبه متن\کار با جعبه متن\obj\Debug\کار با جعبه متن.csproj.GenerateResource.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کار با جعبه متن\کار با جعبه متن\obj\Debug\کار با جعبه متن.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کار با جعبه متن\کار با جعبه متن\obj\Debug\کار با جعبه متن.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کار با جعبه متن\کار با جعبه متن\obj\Debug\کار با جعبه متن.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کار با جعبه متن\کار با جعبه متن\obj\Debug\کار با جعبه متن.csprojAssemblyReference.cache

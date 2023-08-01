@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ماشین حساب 2\ماشین حساب 2\bin\Debug\ماشین حساب 2.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ماشین حساب 2\ماشین حساب 2\bin\Debug\ماشین حساب 2.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ماشین حساب 2\ماشین حساب 2\bin\Debug\ماشین حساب 2.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ماشین حساب 2\ماشین حساب 2\obj\Debug\ماشین حساب 2.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ماشین حساب 2\ماشین حساب 2\obj\Debug\ماشین_حساب_2.Form1.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ماشین حساب 2\ماشین حساب 2\obj\Debug\ماشین_حساب_2.Properties.Resources.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ماشین حساب 2\ماشین حساب 2\obj\Debug\ماشین حساب 2.csproj.GenerateResource.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ماشین حساب 2\ماشین حساب 2\obj\Debug\ماشین حساب 2.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ماشین حساب 2\ماشین حساب 2\obj\Debug\ماشین حساب 2.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ماشین حساب 2\ماشین حساب 2\obj\Debug\ماشین حساب 2.pdb

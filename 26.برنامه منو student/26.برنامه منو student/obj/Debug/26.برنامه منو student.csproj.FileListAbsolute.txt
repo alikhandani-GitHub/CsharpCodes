@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\26.برنامه منو student\26.برنامه منو student\bin\Debug\26.برنامه منو student.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\26.برنامه منو student\26.برنامه منو student\bin\Debug\26.برنامه منو student.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\26.برنامه منو student\26.برنامه منو student\bin\Debug\26.برنامه منو student.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\26.برنامه منو student\26.برنامه منو student\obj\Debug\26.برنامه منو student.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\26.برنامه منو student\26.برنامه منو student\obj\Debug\26.برنامه منو student.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\26.برنامه منو student\26.برنامه منو student\obj\Debug\26.برنامه منو student.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\26.برنامه منو student\26.برنامه منو student\obj\Debug\26.برنامه منو student.pdb

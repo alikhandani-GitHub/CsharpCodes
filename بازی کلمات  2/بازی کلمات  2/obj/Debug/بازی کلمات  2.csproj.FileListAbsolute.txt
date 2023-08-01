@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\بازی کلمات  2\بازی کلمات  2\bin\Debug\بازی کلمات  2.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\بازی کلمات  2\بازی کلمات  2\bin\Debug\بازی کلمات  2.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\بازی کلمات  2\بازی کلمات  2\bin\Debug\بازی کلمات  2.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\بازی کلمات  2\بازی کلمات  2\obj\Debug\بازی_کلمات__2.Form1.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\بازی کلمات  2\بازی کلمات  2\obj\Debug\بازی_کلمات__2.Properties.Resources.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\بازی کلمات  2\بازی کلمات  2\obj\Debug\بازی کلمات  2.csproj.GenerateResource.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\بازی کلمات  2\بازی کلمات  2\obj\Debug\بازی کلمات  2.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\بازی کلمات  2\بازی کلمات  2\obj\Debug\بازی کلمات  2.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\بازی کلمات  2\بازی کلمات  2\obj\Debug\بازی کلمات  2.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\بازی کلمات  2\بازی کلمات  2\obj\Debug\بازی کلمات  2.csprojAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32.دو عدد و نمایش عدد بزرگتر", "32.دو عدد و نمایش عدد بزرگتر\32.دو عدد و نمایش عدد بزرگتر.csproj", "{A1ED6D7F-B007-491D-AADA-47868C54083E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1ED6D7F-B007-491D-AADA-47868C54083E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1ED6D7F-B007-491D-AADA-47868C54083E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1ED6D7F-B007-491D-AADA-47868C54083E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1ED6D7F-B007-491D-AADA-47868C54083E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09E2B8DC-0C10-49A5-B071-BB5987CB4599}
+	EndGlobalSection
+EndGlobal

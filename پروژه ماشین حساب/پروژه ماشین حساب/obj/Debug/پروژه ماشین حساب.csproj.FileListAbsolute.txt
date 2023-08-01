@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه ماشین حساب\پروژه ماشین حساب\bin\Debug\پروژه ماشین حساب.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه ماشین حساب\پروژه ماشین حساب\bin\Debug\پروژه ماشین حساب.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه ماشین حساب\پروژه ماشین حساب\bin\Debug\پروژه ماشین حساب.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه ماشین حساب\پروژه ماشین حساب\obj\Debug\پروژه ماشین حساب.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه ماشین حساب\پروژه ماشین حساب\obj\Debug\پروژه_ماشین_حساب.Form1.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه ماشین حساب\پروژه ماشین حساب\obj\Debug\پروژه_ماشین_حساب.Properties.Resources.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه ماشین حساب\پروژه ماشین حساب\obj\Debug\پروژه ماشین حساب.csproj.GenerateResource.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه ماشین حساب\پروژه ماشین حساب\obj\Debug\پروژه ماشین حساب.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه ماشین حساب\پروژه ماشین حساب\obj\Debug\پروژه ماشین حساب.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه ماشین حساب\پروژه ماشین حساب\obj\Debug\پروژه ماشین حساب.pdb

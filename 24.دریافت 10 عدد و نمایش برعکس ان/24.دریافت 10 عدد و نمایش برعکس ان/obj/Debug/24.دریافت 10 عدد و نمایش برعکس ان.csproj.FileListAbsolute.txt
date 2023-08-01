@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\24.دریافت 10 عدد و نمایش برعکس ان\24.دریافت 10 عدد و نمایش برعکس ان\bin\Debug\24.دریافت 10 عدد و نمایش برعکس ان.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\24.دریافت 10 عدد و نمایش برعکس ان\24.دریافت 10 عدد و نمایش برعکس ان\bin\Debug\24.دریافت 10 عدد و نمایش برعکس ان.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\24.دریافت 10 عدد و نمایش برعکس ان\24.دریافت 10 عدد و نمایش برعکس ان\bin\Debug\24.دریافت 10 عدد و نمایش برعکس ان.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\24.دریافت 10 عدد و نمایش برعکس ان\24.دریافت 10 عدد و نمایش برعکس ان\obj\Debug\24.دریافت 10 عدد و نمایش برعکس ان.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\24.دریافت 10 عدد و نمایش برعکس ان\24.دریافت 10 عدد و نمایش برعکس ان\obj\Debug\24.دریافت 10 عدد و نمایش برعکس ان.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\24.دریافت 10 عدد و نمایش برعکس ان\24.دریافت 10 عدد و نمایش برعکس ان\obj\Debug\24.دریافت 10 عدد و نمایش برعکس ان.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\24.دریافت 10 عدد و نمایش برعکس ان\24.دریافت 10 عدد و نمایش برعکس ان\obj\Debug\24.دریافت 10 عدد و نمایش برعکس ان.pdb

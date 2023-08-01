@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه شمارش و نوشتن در textbox\پروژه شمارش و نوشتن در textbox\bin\Debug\پروژه شمارش و نوشتن در textbox.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه شمارش و نوشتن در textbox\پروژه شمارش و نوشتن در textbox\bin\Debug\پروژه شمارش و نوشتن در textbox.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه شمارش و نوشتن در textbox\پروژه شمارش و نوشتن در textbox\bin\Debug\پروژه شمارش و نوشتن در textbox.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه شمارش و نوشتن در textbox\پروژه شمارش و نوشتن در textbox\obj\Debug\پروژه شمارش و نوشتن در textbox.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه شمارش و نوشتن در textbox\پروژه شمارش و نوشتن در textbox\obj\Debug\پروژه_شمارش_و_نوشتن_در_textbox.Form1.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه شمارش و نوشتن در textbox\پروژه شمارش و نوشتن در textbox\obj\Debug\پروژه_شمارش_و_نوشتن_در_textbox.Properties.Resources.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه شمارش و نوشتن در textbox\پروژه شمارش و نوشتن در textbox\obj\Debug\پروژه شمارش و نوشتن در textbox.csproj.GenerateResource.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه شمارش و نوشتن در textbox\پروژه شمارش و نوشتن در textbox\obj\Debug\پروژه شمارش و نوشتن در textbox.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه شمارش و نوشتن در textbox\پروژه شمارش و نوشتن در textbox\obj\Debug\پروژه شمارش و نوشتن در textbox.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\پروژه شمارش و نوشتن در textbox\پروژه شمارش و نوشتن در textbox\obj\Debug\پروژه شمارش و نوشتن در textbox.pdb

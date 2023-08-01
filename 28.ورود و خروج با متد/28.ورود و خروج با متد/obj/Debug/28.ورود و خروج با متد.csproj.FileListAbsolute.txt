@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\28.ورود و خروج با متد\28.ورود و خروج با متد\bin\Debug\28.ورود و خروج با متد.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\28.ورود و خروج با متد\28.ورود و خروج با متد\bin\Debug\28.ورود و خروج با متد.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\28.ورود و خروج با متد\28.ورود و خروج با متد\bin\Debug\28.ورود و خروج با متد.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\28.ورود و خروج با متد\28.ورود و خروج با متد\obj\Debug\28.ورود و خروج با متد.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\28.ورود و خروج با متد\28.ورود و خروج با متد\obj\Debug\28.ورود و خروج با متد.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\28.ورود و خروج با متد\28.ورود و خروج با متد\obj\Debug\28.ورود و خروج با متد.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\28.ورود و خروج با متد\28.ورود و خروج با متد\obj\Debug\28.ورود و خروج با متد.pdb

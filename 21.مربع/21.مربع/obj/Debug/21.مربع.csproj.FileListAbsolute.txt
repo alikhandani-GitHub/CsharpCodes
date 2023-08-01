@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\21.مربع\21.مربع\bin\Debug\21.مربع.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\21.مربع\21.مربع\bin\Debug\21.مربع.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\21.مربع\21.مربع\bin\Debug\21.مربع.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\21.مربع\21.مربع\obj\Debug\21.مربع.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\21.مربع\21.مربع\obj\Debug\21.مربع.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\21.مربع\21.مربع\obj\Debug\21.مربع.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\21.مربع\21.مربع\obj\Debug\21.مربع.pdb

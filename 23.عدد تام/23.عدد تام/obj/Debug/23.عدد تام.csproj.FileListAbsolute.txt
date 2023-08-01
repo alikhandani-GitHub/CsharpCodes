@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\23.عدد تام\23.عدد تام\bin\Debug\23.عدد تام.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\23.عدد تام\23.عدد تام\bin\Debug\23.عدد تام.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\23.عدد تام\23.عدد تام\bin\Debug\23.عدد تام.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\23.عدد تام\23.عدد تام\obj\Debug\23.عدد تام.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\23.عدد تام\23.عدد تام\obj\Debug\23.عدد تام.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\23.عدد تام\23.عدد تام\obj\Debug\23.عدد تام.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\23.عدد تام\23.عدد تام\obj\Debug\23.عدد تام.csprojAssemblyReference.cache

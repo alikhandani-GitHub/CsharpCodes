@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\41.class numberشی گرایی\41.class numberشی گرایی\bin\Debug\41.class numberشی گرایی.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\41.class numberشی گرایی\41.class numberشی گرایی\bin\Debug\41.class numberشی گرایی.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\41.class numberشی گرایی\41.class numberشی گرایی\bin\Debug\41.class numberشی گرایی.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\41.class numberشی گرایی\41.class numberشی گرایی\obj\Debug\41.class numberشی گرایی.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\41.class numberشی گرایی\41.class numberشی گرایی\obj\Debug\41.class numberشی گرایی.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\41.class numberشی گرایی\41.class numberشی گرایی\obj\Debug\41.class numberشی گرایی.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\41.class numberشی گرایی\41.class numberشی گرایی\obj\Debug\41.class numberشی گرایی.pdb

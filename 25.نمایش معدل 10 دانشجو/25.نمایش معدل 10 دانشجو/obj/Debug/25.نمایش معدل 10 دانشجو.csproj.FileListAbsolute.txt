@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\25.نمایش معدل 10 دانشجو\25.نمایش معدل 10 دانشجو\bin\Debug\25.نمایش معدل 10 دانشجو.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\25.نمایش معدل 10 دانشجو\25.نمایش معدل 10 دانشجو\bin\Debug\25.نمایش معدل 10 دانشجو.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\25.نمایش معدل 10 دانشجو\25.نمایش معدل 10 دانشجو\bin\Debug\25.نمایش معدل 10 دانشجو.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\25.نمایش معدل 10 دانشجو\25.نمایش معدل 10 دانشجو\obj\Debug\25.نمایش معدل 10 دانشجو.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\25.نمایش معدل 10 دانشجو\25.نمایش معدل 10 دانشجو\obj\Debug\25.نمایش معدل 10 دانشجو.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\25.نمایش معدل 10 دانشجو\25.نمایش معدل 10 دانشجو\obj\Debug\25.نمایش معدل 10 دانشجو.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\25.نمایش معدل 10 دانشجو\25.نمایش معدل 10 دانشجو\obj\Debug\25.نمایش معدل 10 دانشجو.csprojAssemblyReference.cache

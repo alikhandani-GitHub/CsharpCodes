@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کرنومتر و آلارم\کرنومتر و آلارم\bin\Debug\کرنومتر و آلارم.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کرنومتر و آلارم\کرنومتر و آلارم\bin\Debug\کرنومتر و آلارم.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کرنومتر و آلارم\کرنومتر و آلارم\bin\Debug\کرنومتر و آلارم.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کرنومتر و آلارم\کرنومتر و آلارم\obj\Debug\کرنومتر و آلارم.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کرنومتر و آلارم\کرنومتر و آلارم\obj\Debug\کرنومتر_و_آلارم.Form1.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کرنومتر و آلارم\کرنومتر و آلارم\obj\Debug\کرنومتر_و_آلارم.Properties.Resources.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کرنومتر و آلارم\کرنومتر و آلارم\obj\Debug\کرنومتر و آلارم.csproj.GenerateResource.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کرنومتر و آلارم\کرنومتر و آلارم\obj\Debug\کرنومتر و آلارم.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کرنومتر و آلارم\کرنومتر و آلارم\obj\Debug\کرنومتر و آلارم.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\کرنومتر و آلارم\کرنومتر و آلارم\obj\Debug\کرنومتر و آلارم.pdb

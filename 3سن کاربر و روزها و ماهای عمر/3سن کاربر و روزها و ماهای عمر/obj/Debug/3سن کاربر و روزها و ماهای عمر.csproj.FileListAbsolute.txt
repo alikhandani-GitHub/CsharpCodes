@@ -1,0 +1,6 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\3سن کاربر و روزها و ماهای عمر\3سن کاربر و روزها و ماهای عمر\obj\Debug\3سن کاربر و روزها و ماهای عمر.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\3سن کاربر و روزها و ماهای عمر\3سن کاربر و روزها و ماهای عمر\bin\Debug\3سن کاربر و روزها و ماهای عمر.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\3سن کاربر و روزها و ماهای عمر\3سن کاربر و روزها و ماهای عمر\bin\Debug\3سن کاربر و روزها و ماهای عمر.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\3سن کاربر و روزها و ماهای عمر\3سن کاربر و روزها و ماهای عمر\bin\Debug\3سن کاربر و روزها و ماهای عمر.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\3سن کاربر و روزها و ماهای عمر\3سن کاربر و روزها و ماهای عمر\obj\Debug\3سن کاربر و روزها و ماهای عمر.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\3سن کاربر و روزها و ماهای عمر\3سن کاربر و روزها و ماهای عمر\obj\Debug\3سن کاربر و روزها و ماهای عمر.pdb

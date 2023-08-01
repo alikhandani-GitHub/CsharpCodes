@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\32.دو عدد و نمایش عدد بزرگتر\32.دو عدد و نمایش عدد بزرگتر\obj\Debug\32.دو عدد و نمایش عدد بزرگتر.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\32.دو عدد و نمایش عدد بزرگتر\32.دو عدد و نمایش عدد بزرگتر\obj\Debug\32.دو عدد و نمایش عدد بزرگتر.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\32.دو عدد و نمایش عدد بزرگتر\32.دو عدد و نمایش عدد بزرگتر\bin\Debug\32.دو عدد و نمایش عدد بزرگتر.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\32.دو عدد و نمایش عدد بزرگتر\32.دو عدد و نمایش عدد بزرگتر\bin\Debug\32.دو عدد و نمایش عدد بزرگتر.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\32.دو عدد و نمایش عدد بزرگتر\32.دو عدد و نمایش عدد بزرگتر\bin\Debug\32.دو عدد و نمایش عدد بزرگتر.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\32.دو عدد و نمایش عدد بزرگتر\32.دو عدد و نمایش عدد بزرگتر\obj\Debug\32.دو عدد و نمایش عدد بزرگتر.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\32.دو عدد و نمایش عدد بزرگتر\32.دو عدد و نمایش عدد بزرگتر\obj\Debug\32.دو عدد و نمایش عدد بزرگتر.pdb

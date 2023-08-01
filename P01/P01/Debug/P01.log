@@ -1,0 +1,5 @@
+﻿  P01.cpp
+c:\users\ali khandani\documents\visual studio 2017\projects\p01\p01\p01.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\ali khandani\documents\visual studio 2017\projects\p01\p01\p01.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\ali khandani\documents\visual studio 2017\projects\p01\p01\p01.cpp(52): warning C4018: '>=': signed/unsigned mismatch
+  P01.vcxproj -> C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\P01\Debug\P01.exe

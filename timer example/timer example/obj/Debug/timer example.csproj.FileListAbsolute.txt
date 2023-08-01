@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\timer example\timer example\bin\Debug\timer example.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\timer example\timer example\bin\Debug\timer example.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\timer example\timer example\bin\Debug\timer example.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\timer example\timer example\obj\Debug\timer example.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\timer example\timer example\obj\Debug\timer_example.Form1.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\timer example\timer example\obj\Debug\timer_example.Properties.Resources.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\timer example\timer example\obj\Debug\timer example.csproj.GenerateResource.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\timer example\timer example\obj\Debug\timer example.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\timer example\timer example\obj\Debug\timer example.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\timer example\timer example\obj\Debug\timer example.pdb

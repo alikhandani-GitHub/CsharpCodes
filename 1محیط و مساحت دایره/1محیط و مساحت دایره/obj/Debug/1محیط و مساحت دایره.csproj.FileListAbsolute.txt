@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\1محیط و مساحت دایره\1محیط و مساحت دایره\obj\Debug\1محیط و مساحت دایره.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\1محیط و مساحت دایره\1محیط و مساحت دایره\obj\Debug\1محیط و مساحت دایره.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\1محیط و مساحت دایره\1محیط و مساحت دایره\bin\Debug\1محیط و مساحت دایره.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\1محیط و مساحت دایره\1محیط و مساحت دایره\bin\Debug\1محیط و مساحت دایره.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\1محیط و مساحت دایره\1محیط و مساحت دایره\bin\Debug\1محیط و مساحت دایره.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\1محیط و مساحت دایره\1محیط و مساحت دایره\obj\Debug\1محیط و مساحت دایره.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\1محیط و مساحت دایره\1محیط و مساحت دایره\obj\Debug\1محیط و مساحت دایره.pdb

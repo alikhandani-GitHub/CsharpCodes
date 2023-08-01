@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol examole\tabcontorol examole\bin\Debug\tabcontorol examole.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol examole\tabcontorol examole\bin\Debug\tabcontorol examole.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol examole\tabcontorol examole\bin\Debug\tabcontorol examole.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol examole\tabcontorol examole\obj\Debug\tabcontorol examole.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol examole\tabcontorol examole\obj\Debug\tabcontorol_examole.Form1.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol examole\tabcontorol examole\obj\Debug\tabcontorol_examole.Properties.Resources.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol examole\tabcontorol examole\obj\Debug\tabcontorol examole.csproj.GenerateResource.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol examole\tabcontorol examole\obj\Debug\tabcontorol examole.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol examole\tabcontorol examole\obj\Debug\tabcontorol examole.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\tabcontorol examole\tabcontorol examole\obj\Debug\tabcontorol examole.pdb

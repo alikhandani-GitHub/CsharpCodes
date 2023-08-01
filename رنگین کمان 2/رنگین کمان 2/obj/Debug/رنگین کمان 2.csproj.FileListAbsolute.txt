@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\رنگین کمان 2\رنگین کمان 2\bin\Debug\رنگین کمان 2.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\رنگین کمان 2\رنگین کمان 2\bin\Debug\رنگین کمان 2.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\رنگین کمان 2\رنگین کمان 2\bin\Debug\رنگین کمان 2.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\رنگین کمان 2\رنگین کمان 2\obj\Debug\رنگین کمان 2.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\رنگین کمان 2\رنگین کمان 2\obj\Debug\رنگین_کمان_2.Form1.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\رنگین کمان 2\رنگین کمان 2\obj\Debug\رنگین_کمان_2.Properties.Resources.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\رنگین کمان 2\رنگین کمان 2\obj\Debug\رنگین کمان 2.csproj.GenerateResource.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\رنگین کمان 2\رنگین کمان 2\obj\Debug\رنگین کمان 2.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\رنگین کمان 2\رنگین کمان 2\obj\Debug\رنگین کمان 2.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\رنگین کمان 2\رنگین کمان 2\obj\Debug\رنگین کمان 2.pdb

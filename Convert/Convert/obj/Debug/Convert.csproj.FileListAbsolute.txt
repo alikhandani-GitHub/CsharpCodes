@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\Convert\Convert\bin\Debug\Convert.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\Convert\Convert\bin\Debug\Convert.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\Convert\Convert\bin\Debug\Convert.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\Convert\Convert\obj\Debug\Convert.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\Convert\Convert\obj\Debug\Convert.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\Convert\Convert\obj\Debug\Convert.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\Convert\Convert\obj\Debug\Convert.pdb

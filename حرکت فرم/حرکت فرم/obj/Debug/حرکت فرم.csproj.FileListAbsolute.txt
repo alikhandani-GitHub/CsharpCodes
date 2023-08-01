@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\حرکت فرم\حرکت فرم\bin\Debug\حرکت فرم.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\حرکت فرم\حرکت فرم\bin\Debug\حرکت فرم.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\حرکت فرم\حرکت فرم\bin\Debug\حرکت فرم.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\حرکت فرم\حرکت فرم\obj\Debug\حرکت فرم.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\حرکت فرم\حرکت فرم\obj\Debug\حرکت_فرم.Form1.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\حرکت فرم\حرکت فرم\obj\Debug\حرکت_فرم.Properties.Resources.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\حرکت فرم\حرکت فرم\obj\Debug\حرکت فرم.csproj.GenerateResource.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\حرکت فرم\حرکت فرم\obj\Debug\حرکت فرم.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\حرکت فرم\حرکت فرم\obj\Debug\حرکت فرم.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\حرکت فرم\حرکت فرم\obj\Debug\حرکت فرم.pdb

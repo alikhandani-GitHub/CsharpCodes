@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\9نمایش حقوق کارمند (با احتساب مالیات)\9نمایش حقوق کارمند (با احتساب مالیات)\bin\Debug\9نمایش حقوق کارمند (با احتساب مالیات).exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\9نمایش حقوق کارمند (با احتساب مالیات)\9نمایش حقوق کارمند (با احتساب مالیات)\bin\Debug\9نمایش حقوق کارمند (با احتساب مالیات).exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\9نمایش حقوق کارمند (با احتساب مالیات)\9نمایش حقوق کارمند (با احتساب مالیات)\bin\Debug\9نمایش حقوق کارمند (با احتساب مالیات).pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\9نمایش حقوق کارمند (با احتساب مالیات)\9نمایش حقوق کارمند (با احتساب مالیات)\obj\Debug\9نمایش حقوق کارمند (با احتساب مالیات).csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\9نمایش حقوق کارمند (با احتساب مالیات)\9نمایش حقوق کارمند (با احتساب مالیات)\obj\Debug\9نمایش حقوق کارمند (با احتساب مالیات).csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\9نمایش حقوق کارمند (با احتساب مالیات)\9نمایش حقوق کارمند (با احتساب مالیات)\obj\Debug\9نمایش حقوق کارمند (با احتساب مالیات).exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\9نمایش حقوق کارمند (با احتساب مالیات)\9نمایش حقوق کارمند (با احتساب مالیات)\obj\Debug\9نمایش حقوق کارمند (با احتساب مالیات).pdb

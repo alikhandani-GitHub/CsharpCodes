@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ازمایش کلید تب\ازمایش کلید تب\bin\Debug\ازمایش کلید تب.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ازمایش کلید تب\ازمایش کلید تب\bin\Debug\ازمایش کلید تب.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ازمایش کلید تب\ازمایش کلید تب\bin\Debug\ازمایش کلید تب.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ازمایش کلید تب\ازمایش کلید تب\obj\Debug\ازمایش کلید تب.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ازمایش کلید تب\ازمایش کلید تب\obj\Debug\ازمایش_کلید_تب.Form1.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ازمایش کلید تب\ازمایش کلید تب\obj\Debug\ازمایش_کلید_تب.Properties.Resources.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ازمایش کلید تب\ازمایش کلید تب\obj\Debug\ازمایش کلید تب.csproj.GenerateResource.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ازمایش کلید تب\ازمایش کلید تب\obj\Debug\ازمایش کلید تب.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ازمایش کلید تب\ازمایش کلید تب\obj\Debug\ازمایش کلید تب.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\ازمایش کلید تب\ازمایش کلید تب\obj\Debug\ازمایش کلید تب.pdb

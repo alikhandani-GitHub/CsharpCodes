@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\40.تبدیل انواع شمارشی\40.تبدیل انواع شمارشی\bin\Debug\40.تبدیل انواع شمارشی.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\40.تبدیل انواع شمارشی\40.تبدیل انواع شمارشی\bin\Debug\40.تبدیل انواع شمارشی.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\40.تبدیل انواع شمارشی\40.تبدیل انواع شمارشی\bin\Debug\40.تبدیل انواع شمارشی.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\40.تبدیل انواع شمارشی\40.تبدیل انواع شمارشی\obj\Debug\40.تبدیل انواع شمارشی.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\40.تبدیل انواع شمارشی\40.تبدیل انواع شمارشی\obj\Debug\40.تبدیل انواع شمارشی.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\40.تبدیل انواع شمارشی\40.تبدیل انواع شمارشی\obj\Debug\40.تبدیل انواع شمارشی.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\40.تبدیل انواع شمارشی\40.تبدیل انواع شمارشی\obj\Debug\40.تبدیل انواع شمارشی.pdb

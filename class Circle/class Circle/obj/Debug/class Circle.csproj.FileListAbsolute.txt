@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\class Circle\class Circle\bin\Debug\class Circle.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\class Circle\class Circle\bin\Debug\class Circle.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\class Circle\class Circle\bin\Debug\class Circle.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\class Circle\class Circle\obj\Debug\class Circle.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\class Circle\class Circle\obj\Debug\class Circle.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\class Circle\class Circle\obj\Debug\class Circle.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\class Circle\class Circle\obj\Debug\class Circle.pdb

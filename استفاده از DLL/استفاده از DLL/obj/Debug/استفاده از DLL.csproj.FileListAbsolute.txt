@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\استفاده از DLL\استفاده از DLL\bin\Debug\استفاده از DLL.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\استفاده از DLL\استفاده از DLL\bin\Debug\استفاده از DLL.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\استفاده از DLL\استفاده از DLL\bin\Debug\استفاده از DLL.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\استفاده از DLL\استفاده از DLL\bin\Debug\NumberClass.dll
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\استفاده از DLL\استفاده از DLL\bin\Debug\NumberClass.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\استفاده از DLL\استفاده از DLL\obj\Debug\استفاده از DLL.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\استفاده از DLL\استفاده از DLL\obj\Debug\استفاده از DLL.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\استفاده از DLL\استفاده از DLL\obj\Debug\استفاده از DLL.csproj.CopyComplete
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\استفاده از DLL\استفاده از DLL\obj\Debug\استفاده از DLL.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\استفاده از DLL\استفاده از DLL\obj\Debug\استفاده از DLL.pdb

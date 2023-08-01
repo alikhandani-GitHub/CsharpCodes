@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\37.نمایش محاسبه فاکتوریل به روش بازگشتی\37.نمایش محاسبه فاکتوریل به روش بازگشتی\bin\Debug\37.نمایش محاسبه فاکتوریل به روش بازگشتی.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\37.نمایش محاسبه فاکتوریل به روش بازگشتی\37.نمایش محاسبه فاکتوریل به روش بازگشتی\bin\Debug\37.نمایش محاسبه فاکتوریل به روش بازگشتی.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\37.نمایش محاسبه فاکتوریل به روش بازگشتی\37.نمایش محاسبه فاکتوریل به روش بازگشتی\bin\Debug\37.نمایش محاسبه فاکتوریل به روش بازگشتی.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\37.نمایش محاسبه فاکتوریل به روش بازگشتی\37.نمایش محاسبه فاکتوریل به روش بازگشتی\obj\Debug\37.نمایش محاسبه فاکتوریل به روش بازگشتی.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\37.نمایش محاسبه فاکتوریل به روش بازگشتی\37.نمایش محاسبه فاکتوریل به روش بازگشتی\obj\Debug\37.نمایش محاسبه فاکتوریل به روش بازگشتی.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\37.نمایش محاسبه فاکتوریل به روش بازگشتی\37.نمایش محاسبه فاکتوریل به روش بازگشتی\obj\Debug\37.نمایش محاسبه فاکتوریل به روش بازگشتی.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\37.نمایش محاسبه فاکتوریل به روش بازگشتی\37.نمایش محاسبه فاکتوریل به روش بازگشتی\obj\Debug\37.نمایش محاسبه فاکتوریل به روش بازگشتی.pdb

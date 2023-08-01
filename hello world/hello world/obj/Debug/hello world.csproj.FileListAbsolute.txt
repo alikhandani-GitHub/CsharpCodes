@@ -1,0 +1,10 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\hello world\hello world\bin\Debug\hello world.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\hello world\hello world\bin\Debug\hello world.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\hello world\hello world\bin\Debug\hello world.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\hello world\hello world\obj\Debug\hello world.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\hello world\hello world\obj\Debug\hello_world.Form1.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\hello world\hello world\obj\Debug\hello_world.Properties.Resources.resources
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\hello world\hello world\obj\Debug\hello world.csproj.GenerateResource.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\hello world\hello world\obj\Debug\hello world.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\hello world\hello world\obj\Debug\hello world.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\hello world\hello world\obj\Debug\hello world.pdb

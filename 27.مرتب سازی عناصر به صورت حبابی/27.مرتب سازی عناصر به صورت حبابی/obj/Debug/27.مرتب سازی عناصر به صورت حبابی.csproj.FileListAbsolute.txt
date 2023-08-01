@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\27.مرتب سازی عناصر به صورت حبابی\27.مرتب سازی عناصر به صورت حبابی\bin\Debug\27.مرتب سازی عناصر به صورت حبابی.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\27.مرتب سازی عناصر به صورت حبابی\27.مرتب سازی عناصر به صورت حبابی\bin\Debug\27.مرتب سازی عناصر به صورت حبابی.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\27.مرتب سازی عناصر به صورت حبابی\27.مرتب سازی عناصر به صورت حبابی\bin\Debug\27.مرتب سازی عناصر به صورت حبابی.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\27.مرتب سازی عناصر به صورت حبابی\27.مرتب سازی عناصر به صورت حبابی\obj\Debug\27.مرتب سازی عناصر به صورت حبابی.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\27.مرتب سازی عناصر به صورت حبابی\27.مرتب سازی عناصر به صورت حبابی\obj\Debug\27.مرتب سازی عناصر به صورت حبابی.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\27.مرتب سازی عناصر به صورت حبابی\27.مرتب سازی عناصر به صورت حبابی\obj\Debug\27.مرتب سازی عناصر به صورت حبابی.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\27.مرتب سازی عناصر به صورت حبابی\27.مرتب سازی عناصر به صورت حبابی\obj\Debug\27.مرتب سازی عناصر به صورت حبابی.pdb

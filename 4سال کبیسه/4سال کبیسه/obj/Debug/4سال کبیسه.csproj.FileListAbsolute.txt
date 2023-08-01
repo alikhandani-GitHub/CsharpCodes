@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\4سال کبیسه\4سال کبیسه\bin\Debug\4سال کبیسه.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\4سال کبیسه\4سال کبیسه\bin\Debug\4سال کبیسه.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\4سال کبیسه\4سال کبیسه\bin\Debug\4سال کبیسه.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\4سال کبیسه\4سال کبیسه\obj\Debug\4سال کبیسه.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\4سال کبیسه\4سال کبیسه\obj\Debug\4سال کبیسه.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\4سال کبیسه\4سال کبیسه\obj\Debug\4سال کبیسه.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\4سال کبیسه\4سال کبیسه\obj\Debug\4سال کبیسه.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\14نمایش اعداد یک تا ده\14نمایش اعداد یک تا ده\bin\Debug\14نمایش اعداد یک تا ده.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\14نمایش اعداد یک تا ده\14نمایش اعداد یک تا ده\bin\Debug\14نمایش اعداد یک تا ده.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\14نمایش اعداد یک تا ده\14نمایش اعداد یک تا ده\bin\Debug\14نمایش اعداد یک تا ده.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\14نمایش اعداد یک تا ده\14نمایش اعداد یک تا ده\obj\Debug\14نمایش اعداد یک تا ده.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\14نمایش اعداد یک تا ده\14نمایش اعداد یک تا ده\obj\Debug\14نمایش اعداد یک تا ده.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\14نمایش اعداد یک تا ده\14نمایش اعداد یک تا ده\obj\Debug\14نمایش اعداد یک تا ده.pdb

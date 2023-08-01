@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\Static Members\Static Members\bin\Debug\Static Members.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\Static Members\Static Members\bin\Debug\Static Members.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\Static Members\Static Members\bin\Debug\Static Members.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\Static Members\Static Members\obj\Debug\Static Members.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\Static Members\Static Members\obj\Debug\Static Members.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\Static Members\Static Members\obj\Debug\Static Members.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\Static Members\Static Members\obj\Debug\Static Members.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\تمرین وراثت\تمرین وراثت\bin\Debug\تمرین وراثت.exe.config
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\تمرین وراثت\تمرین وراثت\bin\Debug\تمرین وراثت.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\تمرین وراثت\تمرین وراثت\bin\Debug\تمرین وراثت.pdb
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\تمرین وراثت\تمرین وراثت\obj\Debug\تمرین وراثت.csprojAssemblyReference.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\تمرین وراثت\تمرین وراثت\obj\Debug\تمرین وراثت.csproj.CoreCompileInputs.cache
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\تمرین وراثت\تمرین وراثت\obj\Debug\تمرین وراثت.exe
+C:\Users\Ali Khandani\Documents\Visual Studio 2017\Projects\تمرین وراثت\تمرین وراثت\obj\Debug\تمرین وراثت.pdb
